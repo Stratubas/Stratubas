@@ -2,7 +2,7 @@
 
 # [![Stratubas StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6002078&layout=compact)](https://stackoverflow.com/users/6002078/stratubas)🤓
 
-### <img src="https://komarev.com/ghpvc/?username=Stratubas&color=c3b766" alt="Yes, I filled the 'alt' attribute" title="Boo!" />👀
+### <img src="https://komarev.com/ghpvc/?username=Stratubas&color=c3b73e" alt="Yes, I filled the 'alt' attribute" title="Boo!" />👀
 <p align="left">   </p>
 
 
